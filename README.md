@@ -3,6 +3,10 @@
 A content-based movie recommendation system that suggests similar movies based on textual similarity of movie metadata.
 
 ---
+## 🚀 Live Demo
+
+👉 Try the app here:  
+https://movierecommendsystem-mrs.streamlit.app/
 
 ## 📌 Project Overview
 

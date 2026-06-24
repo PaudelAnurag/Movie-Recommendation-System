@@ -1,0 +1,9 @@
+numpy
+pandas
+nltk
+scikit-learn
+joblib
+python-dotenv
+streamlit
+scipy
+streamlit-keyup

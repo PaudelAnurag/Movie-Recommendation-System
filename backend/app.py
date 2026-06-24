@@ -40,7 +40,7 @@ if "last_query" not in st.session_state:
 # =====================
 def fetch_poster(id):
     url = f"https://api.themoviedb.org/3/movie/{id}"
-    params = {"api_key": TMDB_API, "language": "en-US"}
+    params = {"api_key": "8265bd1679663a7ea12ac168da84d2e8", "language": "en-US"}
     try:
         response = requests.get(url, params=params, timeout=5)
         data = response.json()

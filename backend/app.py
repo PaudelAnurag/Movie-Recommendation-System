@@ -13,10 +13,10 @@ TMDB_API = os.getenv("TMDB_API")
 # =====================
 # LOAD ARTIFACTS
 # =====================
-movies = joblib.load("../artifacts/model/movies.pkl")
-vectors = joblib.load("../artifacts/model/vectors.pkl")
-model = joblib.load("../artifacts/model/nn_model.pkl")
-index_map = joblib.load("../artifacts/model/index_map.pkl")
+movies = joblib.load("artifacts/model/movies.pkl")
+vectors = joblib.load("artifacts/model/vectors.pkl")
+model = joblib.load("artifacts/model/nn_model.pkl")
+index_map = joblib.load("artifacts/model/index_map.pkl")
 
 # =====================
 # STREAMLIT CONFIG

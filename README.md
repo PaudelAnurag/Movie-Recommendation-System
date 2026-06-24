@@ -1,6 +1,6 @@
 # 🎬 Movie Recommendation System
 
-A content-based movie recommendation system that suggests similar movies based on textual similarity of movie metadata.
+A content-based movie recommendation system that suggests similar movies based on textual similarity of movie metadata from Full TMDB Movies Dataset 2024 (1M Movies) .
 
 ---
 ## 🚀 Live Demo
@@ -9,6 +9,8 @@ A content-based movie recommendation system that suggests similar movies based o
 https://movierecommendsystem-mrs.streamlit.app/
 
 ## 📌 Project Overview
+
+Dataset: https://www.kaggle.com/datasets/asaniczka/tmdb-movies-dataset-2023-930k-movies
 
 This project works with a dataset containing **24 columns**. From these, we selected the most relevant features for recommendation:
 
